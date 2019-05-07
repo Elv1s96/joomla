@@ -1,0 +1,165 @@
+a {
+  color: #678841;
+}
+a:hover {
+  color: #0e9cd1;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #fff;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #678841;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #678841;
+}
+#offcanvas-toggler >i:hover {
+  color: #678841;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #678841;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #678841;
+}
+.sp-page-title {
+  background: #678841;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #678841;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #678841;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #678841;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #678841;
+}
+.search .btn-toolbar button {
+  background: #678841;
+}
+.post-format {
+  background: #678841;
+}
+.voting-symbol span.star.active:before {
+  color: #678841;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #678841;
+}
+blockquote {
+  border-color: #678841;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #678841;
+}
+#sp-footer {
+  background: #678841;
+}
+.sp-comingsoon body {
+  background-color: #678841;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #678841;
+  background-color: #678841;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #678841;
+  background-color: #678841;
+}
+.et-title h6,
+.et-slider .tp-caption a,
+.et-information,
+.et-intro-item:hover i,
+.et-feature-item:hover i,
+.et-portfolio-button:hover,
+.et-feature-item i,
+#et-take-look,
+#sp-header,
+#et-contact-us-item-button:hover,
+.et-action-button:hover,
+.et-table-item:hover button,
+.et-team-item .qx-person-img:before {
+  background: #678841;
+}
+.et-intro-item i,
+.et-about-item i,
+.et-contact-us-item i,
+#et-presented-item-button,
+.et-feature-item h4,
+.et-presented-item h3,
+.et-table-item h3,
+.et-table-item .table-price .price,
+.et-table-item button:hover a,
+.et-testimonial p.qx-designation,
+.et-testimonial button,
+.et-team-item h4 {
+  color: #678841; 
+}
+.et-feature-item:hover i,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover,
+.et-contact #sp-quickcontact-form .button,
+#et-presented-item-button,
+#et-take-look,
+.et-table-item button,
+.et-subscribe-content table .button:hover {
+  border-color: #678841;
+}
+/* Important */
+.excerpt_second-color,
+.et-services-item:hover i,
+.et-services-item:hover h4 {
+  color: #678841!important; 
+}
+.projects-filter a.selected,
+.et-contact #sp-quickcontact-form .button,
+.et-contact-form button,
+.et-subscribe-content table .button:hover {
+  background: #678841!important;  
+}
+.et-contact #sp-quickcontact-form .button:hover,
+.et-contact-form button:hover{
+  border-color: #678841!important; 
+}
